@@ -3253,7 +3253,7 @@ zh_CN:
       unlist: "取消公开"
       add_warning: "这是一个官方警告。"
       toggle_whisper: "切换密语"
-      insert_table: "插入表"
+      insert_table: "插入表格"
       posting_not_on_topic: "您想回复哪个话题？"
       saved_local_draft_tip: "已保存到本地"
       similar_topics: "您的话题类似于…"
